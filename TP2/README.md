@@ -1,4 +1,4 @@
-# TP2 — Vues de sécurité et chasse aux requêtes lentes
+# TP2 — Vues de sécurité et chasse aux requêtes lentes - Moulin Maxime / El Idrissi Djibril
 
 **Séance 2 · en binôme · sur machine · non noté**
 
