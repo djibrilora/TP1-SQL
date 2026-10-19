@@ -1,4 +1,4 @@
-# TP3 — Faire vivre la médiathèque : emprunter et rendre
+# TP3 — Faire vivre la médiathèque : emprunter et rendre - Moulin Maxime / El Idrissi Djibril
 
 **Séance 3 · en binôme · sur machine · non noté**
 
